@@ -1,6 +1,6 @@
 # August
 
-August is a persistant data storage library that is based around folders and flat files (JSON, YAML, XML, ect).
+August is a persistant data storage library that is based around folders and flat files (`JSON`, `YAML`, `XML`).
 
 Its main purpose is to provide a data store that prioritizes human readability and portability.
 
@@ -119,6 +119,7 @@ fmt.Println(person.(Person).Age) // 20
 At Sola Fide, we like for anything we make to echo our Christianity, as all the work we do is for Christ's Kingdom.
 
 In the case of August, it is named after Saint Augustine of Hippo.
+
 
 Saint Augustine was a philosopher and theologian who lived from 354 to 430 AD. He is considered one of the most important figures in the development of Western Christianity and was a major figure in bringing Christianity to dominance in the previously pagan Roman Empire.
 
